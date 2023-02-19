@@ -1,11 +1,13 @@
 // ==UserScript==
 // @name         0DiBi_Extended
-// @namespace    http://github.com/potatosalad775
+// @namespace    http://github.com/potatosalad775/0dibi_Extended/
 // @version      0.1
 // @description  Extensive Add-on for 0db.co.kr
 // @author       potatosalad775
 // @match        https://www.0db.co.kr/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=0db.co.kr
+// @updateURL    https://github.com/potatosalad775/0dibi_Extended/raw/main/0DiBi_Extended.user.js
+// @downloadURL  https://github.com/potatosalad775/0dibi_Extended/raw/main/0DiBi_Extended.user.js
 // @grant        GM_xmlhttpRequest
 // @grant        GM_addStyle
 // ==/UserScript==
